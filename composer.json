@@ -1,5 +1,5 @@
 {
-  "name": "approached/laravel-date-international",
+  "name": "johannebert/laravel-date-international",
   "description": "Date manipulator for laravel",
   "type": "library",
   "license": "MIT",
